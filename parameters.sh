@@ -8,7 +8,7 @@ export AZURE_CLIENT_SECRET=
 export AZURE_SUBSCRIPTION_ID=
 
 # set user(this is your VM's user name and header of resource-group's name )
-export JBS_USERNAME=
+export USERNAME=
 
 # set your ssh public key (raw data)
 export PUBLIC_KEY=''
