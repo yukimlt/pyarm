@@ -99,11 +99,11 @@ delete resource-group
 yuki@DevHost2:~/py_sandbox$ python3 rg_deleter.py
 Delete Azure Resource-Group
 type the Resource-Group NAME
->>>  yuhirose-test
+>>>  test-rg
 
 Deleting the Resource Group....
 .........................................................................................................
-Deleted !: yuhirose-test
+Deleted !: test-rg
 ```
 ## by docker
 ```
